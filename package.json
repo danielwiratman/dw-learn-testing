@@ -1,0 +1,27 @@
+{
+  "name": "dw-learn-testing",
+  "version": "1.0.0",
+  "description": "I learned testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielwiratman/dw-learn-testing.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Daniel Wiratman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielwiratman/dw-learn-testing/issues"
+  },
+  "homepage": "https://github.com/danielwiratman/dw-learn-testing#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.0",
+    "jest": "^29.4.0"
+  }
+}
